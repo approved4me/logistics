@@ -256,6 +256,7 @@ footer .btn {
 
 
 .box1 {
+    flex: 1;
     padding: 3rem 0 3rem 0;
     background-color: #225A9F;
     clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
